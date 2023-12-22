@@ -1,4 +1,4 @@
-# Ollama Web UI: A User-Friendly Web Interface for Chat Interactions 👋
+# GoatChat: a wrapper for Ollama Web UI 👋
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ollama-webui/ollama-webui)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ollama-webui/ollama-webui?color=red)
